@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\bin\Debug\net6.0\Domashna.exe
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\bin\Debug\net6.0\Domashna.deps.json
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\bin\Debug\net6.0\Domashna.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\bin\Debug\net6.0\Domashna.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\bin\Debug\net6.0\Domashna.pdb
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\refint\Domashna.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.pdb
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\Domashna.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna5\Domashna\obj\Debug\net6.0\ref\Domashna.dll
